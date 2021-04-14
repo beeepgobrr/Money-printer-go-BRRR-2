@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "scope": "imrd",
+    "cleanUrls": true,
+    "trailingSlash": false,
+    "public": false,
+    "build": {
+        "env": { "FONTAWESOME_TOKEN": "@fontawesome-token" }
+    }
+}
